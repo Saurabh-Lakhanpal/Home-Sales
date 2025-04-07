@@ -1,8 +1,8 @@
-# Home-Sales
-
 # Home Sales Analysis with SparkSQL
 
 This project explores home sales data using SparkSQL to determine key housing market metrics. By leveraging Spark's powerful capabilities, we analyze pricing trends, optimize queries, and enhance performance through caching and partitioning techniques.
+
+[Solution - Collab](https://github.com/Saurabh-Lakhanpal/Home-Sales/blob/main/Home_Sales.ipynb)
 
 ## Data Processing
 
